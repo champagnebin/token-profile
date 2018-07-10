@@ -1,0 +1,28 @@
+{
+  "symbol": "FIT-FitChain Coin",
+  "address": "Contract Address",
+  "overview":{
+        "en": "",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://www.fitchain.pro/",
+  "whitepaper": "http://www.fitchain.pro/fit-white-paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-10",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "https://t.me/fitchain1",
+    "github": "",
+    "facebook": "",
+    "reddit": "https://www.lieyunwang.com/archives/444663",
+    "slack": "",
+    "medium": ""
+  }
+}
